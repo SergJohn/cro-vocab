@@ -99,5 +99,11 @@
   ["gladan", 1, "hungry"],
   ["žedan", 1, "thirsty"],
   ["sretan", 1, "happy"],
-  ["tužan", 1, "sad"]
+  ["tužan", 1, "sad"],
+  ["negdje", 1, "somewhere"],
+  ["jug", 1, "south"],
+  ["prilično", 1, "fairly"],
+  ["nalaziti se (imp.)", 1, "to be found"],
+  ["odavde", 1, "from here"],
+  ["zanimljiv", 1, "interesting"]
 ]
