@@ -21,5 +21,21 @@
   ["Neka smijeh i radost ispune tvoj dom.", 1, "May laughter and joy fill your home."],
   ["Volimo te i ponosni smo na tebe.", 1, "We love you and we're proud of you."],
   ["Razgovaram s prijateljem", 1, "I am talking to a friend"],
-  ["Putujemo vlakom", 1, "We travel by train"]
+  ["Putujemo vlakom", 1, "We travel by train"],
+  ["što radiš?", 1, "what are you doing?"],
+  ["Gdje ideš?", 1, "Where are you going?"],
+  ["Zašto ne spavaš?", 1, "Why are you not sleeping?"],
+  ["Voliš li pizzu?", 1, "Do you like pizza?"],
+  ["Radiš danas?", 1, "Are you working today?"],
+  ["Jedeš li meso?", 1, "Do you eat meat?"],
+  ["Jesi li gladan?", 1, "Are you hungry?"],
+  ["Da li je ovo tvoj pas?", 1, "Is this your dog?"],
+  ["Spavaš?", 1, "You are sleeping?"],
+  ["Trebaš nešto?", 1, "You need something?"],
+  ["Ti voliš kavu, zar ne?", 1, "You like coffee, don't you?"],
+  ["On ide u školu, zar ne?", 1, "He goes to school, doesn't he?"],
+  ["Mi idemo na put, zar ne?", 1, "We are going on a trip, aren't we?"],
+  ["Baš su fora ove cipele", 1, "These shoes are really cool"],
+  ["Je li voda hladna?", 1, "Is the water cold?"],
+  ["U koliko sati je doričak?", 1, "At what time is the breakfast?"]
 ]
